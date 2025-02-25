@@ -2,6 +2,8 @@
 
 A minimal, responsive single-page under-construction site built with pure HTML and CSS.
 
+🌐 **Live Demo:** [hmwcs.github.io/simple-under-construction-page](https://hmwcs.github.io/simple-under-construction-page/)  
+
 ## Features
 - Fully responsive design  
 - Lightweight and fast  
